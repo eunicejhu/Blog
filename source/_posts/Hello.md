@@ -9,3 +9,4 @@ comments: true
 var s = "Le Voilà. Ça y est";
 alert(s);
 ```
+<!-- more -->
